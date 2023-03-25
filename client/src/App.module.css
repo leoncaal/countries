@@ -1,3 +1,11 @@
+
+.divNav{
+  display: flex;
+  position: relative;
+  height: 12%;
+  background-color:dimgrey;
+  width: 100%;
+}
 .App {
   text-align: center;
 }
